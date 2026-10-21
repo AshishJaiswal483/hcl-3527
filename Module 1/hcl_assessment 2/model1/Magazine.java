@@ -1,4 +1,4 @@
-```java
+
 package model;
 
 public class Magazine extends LibraryItem {

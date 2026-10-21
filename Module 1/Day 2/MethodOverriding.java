@@ -1,3 +1,4 @@
+package day2.inheritance;
 class Animal {
     void sound() {
         System.out.println("Animal makes a sound");

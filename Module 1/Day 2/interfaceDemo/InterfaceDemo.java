@@ -1,3 +1,5 @@
+package interfaceDemo;
+
 interface Payment {
     void pay();
 }
