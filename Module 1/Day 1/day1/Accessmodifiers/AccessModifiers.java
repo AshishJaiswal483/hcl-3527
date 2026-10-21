@@ -1,3 +1,5 @@
+package day1;
+
 class AccessExample {
     private int age = 24;
     protected String branch = "CSE AIML";
