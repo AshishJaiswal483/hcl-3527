@@ -2,24 +2,24 @@ package day2.SuperKeyword;
 
 class Parent {
     Parent() {
-        System.out.println("day2.SuperKeyword.Parent constructor");
+        System.out.println("Parent constructor");
     }
 
     void display() {
-        System.out.println("day2.SuperKeyword.Parent method");
+        System.out.println("Parent method");
     }
 }
 
 class Child extends Parent {
     Child() {
         super();
-        System.out.println("day2.SuperKeyword.Child constructor");
+        System.out.println("Child constructor");
     }
 
     @Override
     void display() {
         super.display();
-        System.out.println("day2.SuperKeyword.Child method");
+        System.out.println("Child method");
     }
 }
 
