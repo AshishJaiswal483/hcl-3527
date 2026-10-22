@@ -1,0 +1,3 @@
+day1.Hello.Hello Ashish
+Learning Java is easy.
+I am learning try-with-resources.

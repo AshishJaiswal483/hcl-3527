@@ -1,4 +1,4 @@
-# Employee Festival Bonus System
+# day1.ThisKeyword.day3.ComparableComparatorDemo.Employee Festival Bonus System
 
 ## Overview
 A Java console-based application that calculates employee festival bonuses based on their roles and sorts employees by bonus amount in descending order.
@@ -12,7 +12,7 @@ A Java console-based application that calculates employee festival bonuses based
 
 ## Bonus Rules
 
-| Employee Role | Bonus Rate |
+| day1.ThisKeyword.day3.ComparableComparatorDemo.Employee Role | Bonus Rate |
 |---|---:|
 | Manager | 12% |
 | Admin | 10% |
@@ -26,12 +26,12 @@ Bonus = (Salary + HRA) × Bonus Rate / 100
 Class Assessment 1/
 ├── README.md
 └── src/
-    ├── Employee.java
+    ├── day1.ThisKeyword.day3.ComparableComparatorDemo.Employee.java
     ├── Bonus_service.java
     └── Main.java
 
 ## Features
-- Stores employee details using an Employee class.
+- Stores employee details using an day1.ThisKeyword.day3.ComparableComparatorDemo.Employee class.
 - Calculates bonuses based on employee roles.
 - Uses ArrayList to manage employee records.
 - Sorts employees by bonus in descending order.
@@ -41,7 +41,7 @@ Class Assessment 1/
 
 Open a terminal in the `src` folder and run:
 
-javac Employee.java Bonus_service.java Main.java
+javac day1.ThisKeyword.day3.ComparableComparatorDemo.Employee.java Bonus_service.java Main.java
 java Main
 
 ## Sample Output

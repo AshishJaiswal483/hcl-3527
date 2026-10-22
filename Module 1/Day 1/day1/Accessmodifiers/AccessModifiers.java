@@ -1,4 +1,4 @@
-package day1;
+package day1.Accessmodifiers;
 
 class AccessExample {
     private int age = 24;
