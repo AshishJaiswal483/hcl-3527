@@ -1,4 +1,4 @@
-# day1.ThisKeyword.day3.ComparableComparatorDemo.Employee Festival Bonus System
+# Employee Festival Bonus System
 
 ## Overview
 A Java console-based application that calculates employee festival bonuses based on their roles and sorts employees by bonus amount in descending order.
