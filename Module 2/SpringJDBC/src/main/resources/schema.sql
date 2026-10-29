@@ -1,0 +1,6 @@
+
+CREATE TABLE IF NOT EXISTS Doctors (
+ id INT PRIMARY KEY,
+ name VARCHAR(100),
+ age INT
+    );
