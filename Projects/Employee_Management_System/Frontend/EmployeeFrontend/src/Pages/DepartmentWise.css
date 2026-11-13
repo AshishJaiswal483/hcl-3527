@@ -1,0 +1,61 @@
+
+.department-wise-page {
+  padding: 30px;
+}
+
+.department-wise-page h1 {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.department-wise-page > p {
+  color: #64748b;
+  margin-bottom: 25px;
+}
+
+.department-wise-page form {
+  display: flex;
+  gap: 12px;
+  max-width: 550px;
+  margin-bottom: 25px;
+}
+
+.department-wise-page input {
+  flex: 1;
+  padding: 12px;
+  border: 1px solid #cbd5e1;
+  border-radius: 6px;
+  font-size: 15px;
+}
+
+.department-wise-page button {
+  padding: 12px 25px;
+  background: #0866e8;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.department-wise-page table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+}
+
+.department-wise-page th,
+.department-wise-page td {
+  padding: 16px;
+  text-align: left;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.department-wise-page th {
+  background: #102442;
+  color: white;
+}
+
+.error-message {
+  color: red;
+  margin-top: 15px;
+}

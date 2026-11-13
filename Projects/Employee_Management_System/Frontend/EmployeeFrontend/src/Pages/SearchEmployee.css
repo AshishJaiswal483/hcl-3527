@@ -1,0 +1,59 @@
+
+.search-employee-page {
+  padding: 30px;
+}
+
+.search-employee-page h1 {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.search-employee-page > p {
+  color: #64748b;
+  margin-bottom: 25px;
+}
+
+.search-employee-page form {
+  display: flex;
+  gap: 12px;
+  max-width: 550px;
+}
+
+.search-employee-page input {
+  flex: 1;
+  padding: 12px;
+  border: 1px solid #cbd5e1;
+  border-radius: 6px;
+  font-size: 15px;
+}
+
+.search-employee-page button {
+  padding: 12px 25px;
+  background: #0866e8;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.employee-result {
+  background: white;
+  max-width: 550px;
+  padding: 25px;
+  margin-top: 25px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+.employee-result h2 {
+  margin-bottom: 15px;
+}
+
+.employee-result p {
+  margin-bottom: 12px;
+}
+
+.error-message {
+  color: red;
+  margin-top: 20px;
+}

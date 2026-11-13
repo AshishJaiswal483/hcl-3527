@@ -1,0 +1,52 @@
+
+.add-department-page {
+  padding: 30px;
+}
+
+.add-department-page h1 {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.add-department-page p {
+  color: #64748b;
+  margin-bottom: 25px;
+}
+
+.add-department-page form {
+  background: white;
+  padding: 25px;
+  max-width: 550px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.add-department-page label {
+  font-weight: 600;
+  color: #102442;
+}
+
+.add-department-page input {
+  padding: 12px;
+  border: 1px solid #cbd5e1;
+  border-radius: 6px;
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+
+.add-department-page button {
+  padding: 12px;
+  background: #0866e8;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 15px;
+}
+
+.add-department-page button:hover {
+  background: #0754bd;
+}

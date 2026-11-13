@@ -1,0 +1,37 @@
+.employees-page {
+  padding: 30px;
+}
+
+.employees-page h1 {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.employees-page p {
+  color: #64748b;
+  margin-bottom: 25px;
+}
+
+.employees-page table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.employees-page th,
+.employees-page td {
+  padding: 16px;
+  text-align: left;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.employees-page th {
+  background: #102442;
+  color: white;
+}
+
+.employees-page td {
+  color: #334155;
+}
